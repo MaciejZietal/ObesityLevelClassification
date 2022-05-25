@@ -72,3 +72,4 @@ Subjective well-being
 
 ![image](https://user-images.githubusercontent.com/77171262/170236409-8fcf4c1d-713f-4d03-9949-58c12ad13f5f.png)
 
+Then i used 5 machine learning techniques (KNN, DT, RF, SVM, LogReg) with 8 under and oversampling techniques (SMOTE, BorderlineSMOTE, ADASYN, Random Oversampling, Random Undersampling, NearMiss3, TomekLinks, SMOTETomek) to balance dataset.
